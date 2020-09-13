@@ -3,7 +3,7 @@ Ce répertoire GitHub est celui utilisé dans la vidéo réalisée par [TUTO UNI
 
 *__Scriptable Objects (Unity) : Qu'est ce que c'est ? Comment les utiliser ?__*
 
-[![Vidéo Scriptable Objects](https://www.tutounity.fr/upload/github/scriptable-objects/miniature.jpg "Miniature de la vidéo")](https://youtube.com/c/tutounityfr)
+[![Vidéo Scriptable Objects](https://www.tutounity.fr/upload/github/scriptable-objects/miniature.jpg "Miniature de la vidéo")](https://www.youtube.com/watch?v=pZ-iG4XUE7E)
 
 Vous retrouverez dans ce repo deux exemples d'utilisation des Scriptable Objects sur Unity.
 
