@@ -42,3 +42,5 @@ Photo Nain (Alexas_Fotos) : https://pixabay.com/fr/photos/imp-mignon-dr%C3%B4le-
 Photo Chevalier Noir (Yuri_B) : https://pixabay.com/fr/photos/knight-moyen-%C3%A2ge-armure-crois%C3%A9-3002031/
 
 Fond de carte HearthStone (Blizzard Ent.) : https://www.blizzard.com/
+
+Modèles 3D et animation de marche : https://www.mixamo.com/
